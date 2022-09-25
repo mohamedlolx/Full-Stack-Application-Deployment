@@ -1,6 +1,18 @@
 # Project- Full Stack and Deployment on AWS CircleCi Github....
 
-#### Apllication Infrastructure
+##Here We are using pre-configured front-End(angular.JS) and backend using NodeJS, ExpressJS, RDS Postgress as DB and for the continous deployment 
+##AWS,Github,CircleCi.....
+
+##This is a small application in which you can sign in and then you can add a picture just a simple idea but behind this simple idea goes a lot of backend ##technologies..
+
+
+
+
+
+
+
+
+#### Deployment of Apllication Infrastructure
 
 #### First We got the Technologies:
 
@@ -28,7 +40,7 @@
 
 ................................................................................................................................
 
-### 1- First In this project this some of the used modules in the project:
+### Second we get in this project this some of the used modules in the project:
 
 ##### 1-Node Package Manager v[14.15.0]
 
@@ -42,12 +54,26 @@
 
 ##### 6-EA CLI (Elasticbeanstalk) v[3.20.3]
 
+##### 7-Sequelize v[5.21.4]
+
+##### 8-express v[4.16.4]
+
+##### 9-jsonwebtoken v[8.5.1]
+
+##### 10-email-validator v[2.0.4]
+
+##### 11-dotenv v[8.2.0]
+
+##### 12-bcryptjs v[2.4.3]
+
+##### 13-cors v[2.8.5]
+
 
 ................................................................................................................................
 
-## Pipeline Process
+## Deployment of Pipeline Process
 
-## First of all everyone has his own way to achieve and this is my own idea:
+## Third  everyone has his own way to achieve and this is my own idea:
 
 #### 1- Creating the Database in AWS RDS and store the parameter in .env file.
 
