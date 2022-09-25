@@ -15,12 +15,10 @@
 2- S3 (Bucket)
 
 - This is the store of our Frontend app also after marking it as static web site we got the link.
-- Here is my link: http://udagram-hassan.s3-website-us-east-1.amazonaws.com/
 
 3- EB (Elasticbeanstalk)
 
 - this is the store of our backend app although it has a link to check the routs and the data if we want.
-- Here is my link: http://udagram-env.eba-papka3yu.us-east-1.elasticbeanstalk.com/
 
 -CircleCi (CI/CD framework)
 
@@ -85,4 +83,4 @@
 
 
 
-### Mohamed Hassan Project  Application Development and Deployment
+### Mohamed Hassan Full Stack Project and continous deploymeny throught CirlceCi, AWS, Github
