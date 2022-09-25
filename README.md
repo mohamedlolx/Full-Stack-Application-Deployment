@@ -71,5 +71,18 @@
 
 #### 7- IF there is any error in Pipeline in CircleCi the process stoped and also the deployment will not happen.
 
+![16](https://user-images.githubusercontent.com/97471166/192146096-8ce98dee-ed44-49e9-beda-abf4e261f301.jpg)
+<img width="810" alt="17" src="https://user-images.githubusercontent.com/97471166/192146108-b6d56a13-5935-4378-850e-b9dc7001e647.png">
+![18](https://user-images.githubusercontent.com/97471166/192146116-d218baa5-dcbb-410b-abd1-494ba47f53bf.jpg)
+![13](https://user-images.githubusercontent.com/97471166/192146329-04f036f7-7a0e-4c68-90c7-a77103a8e304.png)
+![9](https://user-images.githubusercontent.com/97471166/192146339-4ac40808-fc51-44eb-8631-40ea22c4403d.png)
+![6](https://user-images.githubusercontent.com/97471166/192146417-6d650292-12f3-473d-8c17-a362fdef438f.png)
+![7](https://user-images.githubusercontent.com/97471166/192146418-d030dd5e-19ad-4aeb-b350-1c4cece25146.png)
+![5](https://user-images.githubusercontent.com/97471166/192146456-d1b7737d-a15d-40e5-bcb4-93d984bac263.png)
+![2](https://user-images.githubusercontent.com/97471166/192146457-a6fd751b-2b16-46da-bad5-c5bebac88b47.png)
+
+
+
+
 
 ### Mohamed Hassan Project  Application Development and Deployment
