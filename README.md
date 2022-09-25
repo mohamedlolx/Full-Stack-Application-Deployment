@@ -1,9 +1,10 @@
 # Project- Full Stack and Deployment on AWS CircleCi Github....
 
-##Here We are using pre-configured front-End(angular.JS) and backend using NodeJS, ExpressJS, RDS Postgress as DB and for the continous deployment 
-##AWS,Github,CircleCi.....
+## Here We are using pre-configured front-End(angular.JS) and backend using NodeJS, ExpressJS, RDS Postgress as DB and for the continous deployment 
+## AWS,Github,CircleCi.....
 
-##This is a small application in which you can sign in and then you can add a picture just a simple idea but behind this simple idea goes a lot of backend ##technologies..
+## This is a small application in which you can sign in and then you can add a picture just a simple idea but behind this simple idea goes a lot of backend 
+## technologies..
 
 
 
